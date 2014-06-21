@@ -1,3 +1,4 @@
+name             'collectd_plugins'
 maintainer       "Sam Kottler"
 maintainer_email "shk@linux.com"
 license          "Apache 2.0"
